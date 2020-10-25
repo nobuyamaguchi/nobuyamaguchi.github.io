@@ -14,10 +14,10 @@ I'm studying data science including applied machine learning, NLP, data visualiz
 Created a model to predict patent quality by ensemble learning with BERT and Hierarchical Attention Network Model ([link to the final paper](https://github.com/nobuyamaguchi/w266_final/blob/master/final_paper/W266_Final_Project_Yamaguchi_Lin.pdf))
 
 ### Applied Machine Learning
-Analyzed forest cover type prediction data and created a model using feature selection, ensemble, and random forest ([link to the repo](https://github.com/nobuyamaguchi/W207_P3_Nguyen_Sun_Yamaguchi/blob/master/README.md))
+Analyzed forest cover type prediction data and created a model using feature selection, ensemble, and random forest ([link to the repo](https://github.com/nobuyamaguchi/W207_P3_Nguyen_Sun_Yamaguchi/blob/master/))
 
 ### Data Visualization and Communication
-Created a visualization tool to educate and share with users how climate change impacts them and their community using Tableau ([link to repo](https://github.com/nobuyamaguchi/W209-Spring-2020/blob/master/README.md))
+Created a visualization tool to educate and share with users how climate change impacts them and their community using Tableau ([link to repo](https://github.com/nobuyamaguchi/W209-Spring-2020/blob/master/))
 
 ### Statistics for Data Science
 Analyzed county-level crime data of North Carolina to generate recommendations for interventions to help reduce crime rates using OLS regression based on classic linear model assumptions ([link to repo](https://github.com/nobuyamaguchi/Lab3_Power-analysis_3b))
@@ -34,3 +34,7 @@ Analyzed the sales and service data to find the factors that impact customer loy
 ### MBA Plus Project, Marketing Research Project
 * Analyzed the current market size and potential growth areas for machine vision technology
 * Recommended the 5 future areas to explore for Texas Instruments
+
+## Solo Projects
+### Data Visualization and Communication
+Created an activity dashboard using the data from summer 2018 to Feb 2020 to show my recovery progress from back injury. Showed distance, cadence, average HR and exercise hour from the data. ([link to repo](https://github.com/nobuyamaguchi/w209_project_1)
