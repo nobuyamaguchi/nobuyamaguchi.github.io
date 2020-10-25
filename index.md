@@ -37,4 +37,4 @@ Analyzed the sales and service data to find the factors that impact customer loy
 
 ## Solo Projects
 ### Data Visualization and Communication
-Created an activity dashboard using the data from summer 2018 to Feb 2020 to show my recovery progress from back injury. Showed distance, cadence, average HR and exercise hour from the data. ([link to repo](https://github.com/nobuyamaguchi/w209_project_1)
+Created an activity dashboard using the data from summer 2018 to Feb 2020 to show my recovery progress from back injury. Showed distance, cadence, average HR and exercise hour from the data. ([link to repo](https://github.com/nobuyamaguchi/w209_project_1))
