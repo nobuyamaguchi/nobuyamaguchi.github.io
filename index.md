@@ -7,6 +7,8 @@ I am an experienced Senior Technology Manager with innovative mindset and skills
 
 I'm studying data science including applied machine learning, NLP, data visualization and experiments and causality at UC Berkeley School of Information (Master of Information and Data Science).
 
+[link to LinkedIn](https://www.linkedin.com/in/nobu-yamaguchi/)
+
 
 ## Group Projects
 
