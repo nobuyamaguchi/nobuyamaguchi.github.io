@@ -14,10 +14,10 @@ I'm studying data science including applied machine learning, NLP, data visualiz
 Created a model to predict patent quality by ensemble learning with BERT and Hierarchical Attention Network Model ([link to the final paper](https://github.com/nobuyamaguchi/w266_final/blob/master/final_paper/W266_Final_Project_Yamaguchi_Lin.pdf))
 
 ### Applied Machine Learning
-Analyzed forest cover type prediction data and created a model using feature selection, ensemble, and random forest ([link to the repo](https://github.com/nobuyamaguchi/W207_P3_Nguyen_Sun_Yamaguchi/blob/master/))
+Analyzed forest cover type prediction data and created a model using feature selection, ensemble, and random forest ([link to repo](https://github.com/nobuyamaguchi/w207_final))
 
 ### Data Visualization and Communication
-Created a visualization tool to educate and share with users how climate change impacts them and their community using Tableau ([link to repo](https://github.com/nobuyamaguchi/W209-Spring-2020/blob/master/))
+Created a visualization tool to educate and share with users how climate change impacts them and their community using Tableau ([link to repo](https://github.com/nobuyamaguchi/w209_spring_final))
 
 ### Statistics for Data Science
 Analyzed county-level crime data of North Carolina to generate recommendations for interventions to help reduce crime rates using OLS regression based on classic linear model assumptions ([link to repo](https://github.com/nobuyamaguchi/Lab3_Power-analysis_3b))
