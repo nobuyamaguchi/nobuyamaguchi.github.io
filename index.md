@@ -3,8 +3,6 @@
 # Nobu Yamaguchi
 ## Data Science Graduate Student at UC Berkeley
 
-I am an experienced Senior Technology Manager with innovative mindset and skills in creating new business, project leadership and management accounting.
-
 I'm studying data science including applied machine learning, NLP, data visualization and experiments and causality at UC Berkeley School of Information (Master of Information and Data Science).
 
 [link to LinkedIn](https://www.linkedin.com/in/nobu-yamaguchi/)
@@ -35,7 +33,7 @@ Analyzed the sales and service data to find the factors that impact customer loy
 
 ### MBA Plus Project, Marketing Research Project
 * Analyzed the current market size and potential growth areas for machine vision technology
-* Recommended the 5 future areas to explore for Texas Instruments
+* Recommended the 3 future areas to explore for Texas Instruments 
 
 ## Solo Projects
 ### Data Visualization and Communication
