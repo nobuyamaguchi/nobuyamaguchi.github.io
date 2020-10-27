@@ -40,5 +40,6 @@ Analyzed the sales and service data to find the factors that impact customer loy
 Created an activity dashboard using the data from summer 2018 to Feb 2020 to show my recovery progress from back injury. Showed distance, cadence, average HR and exercise hour from the data. ([link to repo](https://github.com/nobuyamaguchi/w209_project_1))
 
 ### Fundamentals of Data Engineering
-Analyzed bike share data in San Francisco to offer a deal to increase ridership. ([link to the notebook](https://github.com/nobuyamaguchi/w205/blob/master/projects/project-1-nobuyamaguchi/Yamaguchi_Nobu_Bike_Share_Analytics.ipynb) 
+Analyzed bike share data in San Francisco to offer a deal to increase ridership. ([link to the notebook](https://github.com/nobuyamaguchi/w205/blob/master/projects/project-1-nobuyamaguchi/Yamaguchi_Nobu_Bike_Share_Analytics.ipynb))
+
 Skills: BigQuery, Google Cloud Platform
