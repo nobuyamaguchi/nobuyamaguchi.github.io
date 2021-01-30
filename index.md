@@ -16,6 +16,9 @@ Created a model to predict patent quality by ensemble learning with BERT and Hie
 ### Applied Machine Learning
 Analyzed forest cover type prediction data and created a model using feature selection, ensemble, and random forest ([link to repo](https://github.com/nobuyamaguchi/w207_final))
 
+### Experimental Design
+Quantifying the treatment effects on prolonging the freshness of apples, bananas and avocados ([link to repo](https://github.com/jtrobec/mids-w241-fa2020-fp))
+
 ### Data Visualization and Communication
 Created a visualization tool to educate and share with users how climate change impacts them and their community using Tableau ([link to repo](https://github.com/nobuyamaguchi/w209_spring_final))
 
